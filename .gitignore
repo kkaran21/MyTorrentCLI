@@ -1,0 +1,42 @@
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# Visual Studio files
+.vs/
+*.vscode/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Configuration files
+*.config
+*.launchSettings.json
+
+# JetBrains Rider
+.idea/
+
+# Others
+*.cache
+*.tmp
+*.bak
